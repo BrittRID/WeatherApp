@@ -1,0 +1,16 @@
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp api.exe
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp api.deps.json
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp api.runtimeconfig.json
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp api.runtimeconfig.dev.json
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp api.dll
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp api.pdb
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.csproj.AssemblyReference.cache
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.AssemblyInfoInputs.cache
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.AssemblyInfo.cs
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.csproj.CoreCompileInputs.cache
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.csproj.CopyComplete
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.dll
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.pdb
+C:\Users\britt\OneDrive\Desktop\repos\WeatherApp\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp api.genruntimeconfig.cache
